@@ -1,0 +1,28 @@
+#uno{
+    background-color:rgb(120, 186, 243);
+    border: 1px solid rgb(0, 17, 92);
+    height:100%;
+    padding-bottom:10px;
+    margin-bottom:10px;
+}
+#dos{
+    background-color:rgb(120, 186, 243);
+    border: 1px solid rgb(0, 17, 92);
+    width:55%;
+    height:400px;
+
+    text-align:center;
+}
+#tres{
+    float:right;
+    width:40%;
+    height:400p;
+    background-color:rgb(120, 186, 243);
+    border: 1px solid rgb(0, 17, 92);
+    text-align:center;
+}
+li{
+    margin-left:200px;
+    margin-right:200px;
+    padding:0px
+}
